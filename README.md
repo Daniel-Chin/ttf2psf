@@ -6,6 +6,8 @@ This just converts files to psf format with freetype, nothing else.
 
     ttf2psf -g -c [charset file] -e [equivalence file] input.ttf output.psfu.gz
 
+See ./data for common charset files and equivalence files.
+
 ## Licensing/inspiration
 
 This specific utility is released under the GPL-3.0 or later license, but there
